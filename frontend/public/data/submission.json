@@ -1,0 +1,702 @@
+[
+  {
+    "candidate_id": "CAND_0004989",
+    "rank": 1,
+    "score": 99.2,
+    "reasoning": "HR Manager with 6.1 yrs; 9 AI core skills; response rate 0.76.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001195",
+    "rank": 2,
+    "score": 98.4,
+    "reasoning": "HR Manager with 8.7 yrs; 9 AI core skills; response rate 0.20.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0003114",
+    "rank": 3,
+    "score": 97.6,
+    "reasoning": "ML Engineer with 6.4 yrs; 4 AI core skills; response rate 0.88.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000339",
+    "rank": 4,
+    "score": 96.8,
+    "reasoning": "Content Writer with 8.3 yrs; 8 AI core skills; response rate 0.72.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001082",
+    "rank": 5,
+    "score": 96.0,
+    "reasoning": "HR Manager with 5.0 yrs; 8 AI core skills; response rate 0.62.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001218",
+    "rank": 6,
+    "score": 95.19999999999999,
+    "reasoning": "Graphic Designer with 10.4 yrs; 9 AI core skills; response rate 0.56.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0004558",
+    "rank": 7,
+    "score": 94.39999999999999,
+    "reasoning": "Business Analyst with 5.1 yrs; 8 AI core skills; response rate 0.54.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001753",
+    "rank": 8,
+    "score": 93.60000000000001,
+    "reasoning": "Content Writer with 8.3 yrs; 8 AI core skills; response rate 0.53.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001503",
+    "rank": 9,
+    "score": 92.80000000000001,
+    "reasoning": "Marketing Manager with 8.0 yrs; 8 AI core skills; response rate 0.32.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0004548",
+    "rank": 10,
+    "score": 92.0,
+    "reasoning": "HR Manager with 7.3 yrs; 8 AI core skills; response rate 0.30.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0002164",
+    "rank": 11,
+    "score": 91.2,
+    "reasoning": "Marketing Manager with 13.2 yrs; 9 AI core skills; response rate 0.24.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001154",
+    "rank": 12,
+    "score": 90.4,
+    "reasoning": "Mechanical Engineer with 6.9 yrs; 8 AI core skills; response rate 0.18.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0002622",
+    "rank": 13,
+    "score": 89.60000000000001,
+    "reasoning": "Accountant with 14.2 yrs; 9 AI core skills; response rate 0.18.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000002",
+    "rank": 14,
+    "score": 88.8,
+    "reasoning": "Civil Engineer with 8.0 yrs; 8 AI core skills; response rate 0.15.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000718",
+    "rank": 15,
+    "score": 88.0,
+    "reasoning": "Accountant with 8.2 yrs; 8 AI core skills; response rate 0.15.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0004224",
+    "rank": 16,
+    "score": 87.2,
+    "reasoning": "Graphic Designer with 5.0 yrs; 8 AI core skills; response rate 0.11.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000239",
+    "rank": 17,
+    "score": 86.4,
+    "reasoning": "Project Manager with 5.0 yrs; 8 AI core skills; response rate 0.10.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001771",
+    "rank": 18,
+    "score": 85.6,
+    "reasoning": "Accountant with 7.4 yrs; 8 AI core skills; response rate 0.06.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0002782",
+    "rank": 19,
+    "score": 84.8,
+    "reasoning": "Sales Executive with 7.8 yrs; 8 AI core skills; response rate 0.06.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0003693",
+    "rank": 20,
+    "score": 84.0,
+    "reasoning": "Sales Executive with 7.2 yrs; 7 AI core skills; response rate 0.77.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0004937",
+    "rank": 21,
+    "score": 83.2,
+    "reasoning": "Operations Manager with 13.5 yrs; 8 AI core skills; response rate 0.77.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001397",
+    "rank": 22,
+    "score": 82.39999999999999,
+    "reasoning": "Business Analyst with 11.3 yrs; 8 AI core skills; response rate 0.76.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001381",
+    "rank": 23,
+    "score": 81.6,
+    "reasoning": "Accountant with 14.1 yrs; 8 AI core skills; response rate 0.75.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0004201",
+    "rank": 24,
+    "score": 80.80000000000001,
+    "reasoning": "Mechanical Engineer with 13.7 yrs; 8 AI core skills; response rate 0.75.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0002019",
+    "rank": 25,
+    "score": 80.0,
+    "reasoning": "Marketing Manager with 2.0 yrs; 8 AI core skills; response rate 0.73.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0004645",
+    "rank": 26,
+    "score": 79.2,
+    "reasoning": "Project Manager with 10.2 yrs; 8 AI core skills; response rate 0.71.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0004824",
+    "rank": 27,
+    "score": 78.4,
+    "reasoning": "AI Engineer with 6.1 yrs; 3 AI core skills; response rate 0.71.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0002592",
+    "rank": 28,
+    "score": 77.60000000000001,
+    "reasoning": "Business Analyst with 11.4 yrs; 8 AI core skills; response rate 0.65.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001586",
+    "rank": 29,
+    "score": 76.8,
+    "reasoning": "Operations Manager with 6.5 yrs; 7 AI core skills; response rate 0.60.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001653",
+    "rank": 30,
+    "score": 76.0,
+    "reasoning": "Mechanical Engineer with 4.5 yrs; 8 AI core skills; response rate 0.59.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000007",
+    "rank": 31,
+    "score": 75.2,
+    "reasoning": "AI Engineer with 6.6 yrs; 3 AI core skills; response rate 0.57.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001795",
+    "rank": 32,
+    "score": 74.4,
+    "reasoning": "Mechanical Engineer with 4.4 yrs; 8 AI core skills; response rate 0.57.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0003531",
+    "rank": 33,
+    "score": 73.6,
+    "reasoning": "Operations Manager with 3.2 yrs; 8 AI core skills; response rate 0.55.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0002989",
+    "rank": 34,
+    "score": 72.8,
+    "reasoning": "Graphic Designer with 6.0 yrs; 7 AI core skills; response rate 0.54.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000581",
+    "rank": 35,
+    "score": 72.0,
+    "reasoning": "HR Manager with 8.5 yrs; 7 AI core skills; response rate 0.53.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0004680",
+    "rank": 36,
+    "score": 71.2,
+    "reasoning": "Mechanical Engineer with 8.0 yrs; 7 AI core skills; response rate 0.53.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001257",
+    "rank": 37,
+    "score": 70.39999999999999,
+    "reasoning": "Mechanical Engineer with 6.9 yrs; 7 AI core skills; response rate 0.52.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0002018",
+    "rank": 38,
+    "score": 69.6,
+    "reasoning": "Civil Engineer with 6.4 yrs; 7 AI core skills; response rate 0.52.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0004952",
+    "rank": 39,
+    "score": 68.8,
+    "reasoning": "Project Manager with 6.5 yrs; 7 AI core skills; response rate 0.52.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001378",
+    "rank": 40,
+    "score": 68.0,
+    "reasoning": "Project Manager with 5.6 yrs; 7 AI core skills; response rate 0.51.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000164",
+    "rank": 41,
+    "score": 67.2,
+    "reasoning": "Business Analyst with 3.0 yrs; 8 AI core skills; response rate 0.50.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0003406",
+    "rank": 42,
+    "score": 66.4,
+    "reasoning": "Graphic Designer with 6.0 yrs; 7 AI core skills; response rate 0.44.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000557",
+    "rank": 43,
+    "score": 65.60000000000001,
+    "reasoning": "Civil Engineer with 14.3 yrs; 8 AI core skills; response rate 0.43.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0003107",
+    "rank": 44,
+    "score": 64.8,
+    "reasoning": "Customer Support with 6.6 yrs; 7 AI core skills; response rate 0.41.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000168",
+    "rank": 45,
+    "score": 64.0,
+    "reasoning": "Marketing Manager with 6.3 yrs; 7 AI core skills; response rate 0.39.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000268",
+    "rank": 46,
+    "score": 63.2,
+    "reasoning": "Accountant with 3.7 yrs; 8 AI core skills; response rate 0.39.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000791",
+    "rank": 47,
+    "score": 62.4,
+    "reasoning": "Customer Support with 11.5 yrs; 8 AI core skills; response rate 0.39.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0003050",
+    "rank": 48,
+    "score": 61.6,
+    "reasoning": "ML Engineer with 6.0 yrs; 3 AI core skills; response rate 0.38.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0003241",
+    "rank": 49,
+    "score": 60.8,
+    "reasoning": "ML Engineer with 3.6 yrs; 4 AI core skills; response rate 0.36.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000776",
+    "rank": 50,
+    "score": 60.0,
+    "reasoning": "Operations Manager with 14.2 yrs; 8 AI core skills; response rate 0.35.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0002234",
+    "rank": 51,
+    "score": 59.199999999999996,
+    "reasoning": "Content Writer with 9.9 yrs; 8 AI core skills; response rate 0.35.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0004217",
+    "rank": 52,
+    "score": 58.4,
+    "reasoning": "Accountant with 1.8 yrs; 8 AI core skills; response rate 0.33.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0003702",
+    "rank": 53,
+    "score": 57.599999999999994,
+    "reasoning": "Graphic Designer with 6.9 yrs; 7 AI core skills; response rate 0.26.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0004154",
+    "rank": 54,
+    "score": 56.8,
+    "reasoning": "HR Manager with 6.2 yrs; 7 AI core skills; response rate 0.26.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000542",
+    "rank": 55,
+    "score": 56.00000000000001,
+    "reasoning": "Mechanical Engineer with 8.5 yrs; 7 AI core skills; response rate 0.25.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0002466",
+    "rank": 56,
+    "score": 55.2,
+    "reasoning": "Marketing Manager with 14.6 yrs; 8 AI core skills; response rate 0.25.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0002974",
+    "rank": 57,
+    "score": 54.400000000000006,
+    "reasoning": "Operations Manager with 13.4 yrs; 8 AI core skills; response rate 0.25.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000450",
+    "rank": 58,
+    "score": 53.6,
+    "reasoning": "Operations Manager with 7.7 yrs; 7 AI core skills; response rate 0.24.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0002438",
+    "rank": 59,
+    "score": 52.800000000000004,
+    "reasoning": "Accountant with 1.0 yrs; 8 AI core skills; response rate 0.24.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000217",
+    "rank": 60,
+    "score": 52.0,
+    "reasoning": "Sales Executive with 11.4 yrs; 8 AI core skills; response rate 0.23.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001424",
+    "rank": 61,
+    "score": 51.2,
+    "reasoning": "Content Writer with 13.6 yrs; 8 AI core skills; response rate 0.22.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0004711",
+    "rank": 62,
+    "score": 50.4,
+    "reasoning": "Content Writer with 14.2 yrs; 8 AI core skills; response rate 0.22.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001294",
+    "rank": 63,
+    "score": 49.6,
+    "reasoning": "HR Manager with 3.0 yrs; 8 AI core skills; response rate 0.21.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001724",
+    "rank": 64,
+    "score": 48.8,
+    "reasoning": "Mechanical Engineer with 7.4 yrs; 7 AI core skills; response rate 0.20.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0002794",
+    "rank": 65,
+    "score": 48.0,
+    "reasoning": "Project Manager with 13.9 yrs; 8 AI core skills; response rate 0.20.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001292",
+    "rank": 66,
+    "score": 47.199999999999996,
+    "reasoning": "Customer Support with 7.6 yrs; 7 AI core skills; response rate 0.16.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0004655",
+    "rank": 67,
+    "score": 46.400000000000006,
+    "reasoning": "Mechanical Engineer with 4.4 yrs; 8 AI core skills; response rate 0.16.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0004133",
+    "rank": 68,
+    "score": 45.6,
+    "reasoning": "Sales Executive with 8.5 yrs; 7 AI core skills; response rate 0.14.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000958",
+    "rank": 69,
+    "score": 44.800000000000004,
+    "reasoning": "Business Analyst with 4.3 yrs; 8 AI core skills; response rate 0.13.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0003259",
+    "rank": 70,
+    "score": 44.0,
+    "reasoning": "Project Manager with 5.3 yrs; 7 AI core skills; response rate 0.13.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0004851",
+    "rank": 71,
+    "score": 43.2,
+    "reasoning": "HR Manager with 6.3 yrs; 7 AI core skills; response rate 0.12.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0002626",
+    "rank": 72,
+    "score": 42.4,
+    "reasoning": "Operations Manager with 11.0 yrs; 8 AI core skills; response rate 0.11.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0004410",
+    "rank": 73,
+    "score": 41.6,
+    "reasoning": "Marketing Manager with 11.6 yrs; 8 AI core skills; response rate 0.07.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0003477",
+    "rank": 74,
+    "score": 40.8,
+    "reasoning": "Junior ML Engineer with 6.9 yrs; 2 AI core skills; response rate 0.86.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000799",
+    "rank": 75,
+    "score": 40.0,
+    "reasoning": "Senior Machine Learning Engineer with 6.3 yrs; 6 AI core skills; response rate 0.83.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0003242",
+    "rank": 76,
+    "score": 39.2,
+    "reasoning": "Project Manager with 13.9 yrs; 7 AI core skills; response rate 0.77.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0003846",
+    "rank": 77,
+    "score": 38.4,
+    "reasoning": "Content Writer with 8.2 yrs; 6 AI core skills; response rate 0.77.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000459",
+    "rank": 78,
+    "score": 37.6,
+    "reasoning": "HR Manager with 1.9 yrs; 7 AI core skills; response rate 0.76.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0004223",
+    "rank": 79,
+    "score": 36.8,
+    "reasoning": "Civil Engineer with 5.6 yrs; 6 AI core skills; response rate 0.76.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0004640",
+    "rank": 80,
+    "score": 36.0,
+    "reasoning": "Civil Engineer with 11.2 yrs; 7 AI core skills; response rate 0.76.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000251",
+    "rank": 81,
+    "score": 35.199999999999996,
+    "reasoning": "HR Manager with 12.6 yrs; 7 AI core skills; response rate 0.75.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0002255",
+    "rank": 82,
+    "score": 34.4,
+    "reasoning": "Accountant with 3.0 yrs; 7 AI core skills; response rate 0.73.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0003638",
+    "rank": 83,
+    "score": 33.6,
+    "reasoning": "Sales Executive with 13.3 yrs; 7 AI core skills; response rate 0.73.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0003002",
+    "rank": 84,
+    "score": 32.800000000000004,
+    "reasoning": "Project Manager with 11.0 yrs; 7 AI core skills; response rate 0.71.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0002880",
+    "rank": 85,
+    "score": 32.0,
+    "reasoning": "Mechanical Engineer with 11.9 yrs; 7 AI core skills; response rate 0.70.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000084",
+    "rank": 86,
+    "score": 31.2,
+    "reasoning": "Sales Executive with 12.4 yrs; 7 AI core skills; response rate 0.69.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0003300",
+    "rank": 87,
+    "score": 30.4,
+    "reasoning": "Graphic Designer with 6.2 yrs; 6 AI core skills; response rate 0.69.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000699",
+    "rank": 88,
+    "score": 29.599999999999998,
+    "reasoning": "Graphic Designer with 11.7 yrs; 7 AI core skills; response rate 0.68.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0002446",
+    "rank": 89,
+    "score": 28.799999999999997,
+    "reasoning": "Customer Support with 10.2 yrs; 7 AI core skills; response rate 0.67.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0003918",
+    "rank": 90,
+    "score": 28.000000000000004,
+    "reasoning": "Marketing Manager with 4.3 yrs; 7 AI core skills; response rate 0.66.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0002661",
+    "rank": 91,
+    "score": 27.200000000000003,
+    "reasoning": "Graphic Designer with 7.9 yrs; 6 AI core skills; response rate 0.65.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0000899",
+    "rank": 92,
+    "score": 26.400000000000002,
+    "reasoning": "Sales Executive with 10.2 yrs; 7 AI core skills; response rate 0.64.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001550",
+    "rank": 93,
+    "score": 25.6,
+    "reasoning": "Mechanical Engineer with 2.4 yrs; 7 AI core skills; response rate 0.64.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0002317",
+    "rank": 94,
+    "score": 24.8,
+    "reasoning": "Content Writer with 7.2 yrs; 6 AI core skills; response rate 0.62.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0002720",
+    "rank": 95,
+    "score": 24.0,
+    "reasoning": "Civil Engineer with 7.4 yrs; 6 AI core skills; response rate 0.61.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001355",
+    "rank": 96,
+    "score": 23.200000000000003,
+    "reasoning": "Civil Engineer with 12.9 yrs; 7 AI core skills; response rate 0.59.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001839",
+    "rank": 97,
+    "score": 22.400000000000002,
+    "reasoning": "Operations Manager with 8.2 yrs; 6 AI core skills; response rate 0.58.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0004366",
+    "rank": 98,
+    "score": 21.6,
+    "reasoning": "Accountant with 3.6 yrs; 7 AI core skills; response rate 0.58.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0001021",
+    "rank": 99,
+    "score": 20.8,
+    "reasoning": "Data Scientist with 3.1 yrs; 3 AI core skills; response rate 0.57.",
+    "recommendation": "Proceed to interview"
+  },
+  {
+    "candidate_id": "CAND_0002689",
+    "rank": 100,
+    "score": 20.0,
+    "reasoning": "Content Writer with 14.7 yrs; 7 AI core skills; response rate 0.57.",
+    "recommendation": "Proceed to interview"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "pipeline_status": "Completed",
+  "total_phases": 7,
+  "phases": [
+    {
+      "phase": "1",
+      "name": "Data Foundation",
+      "description": "Data ingestion and validation",
+      "status": "completed",
+      "artifacts": [
+        "validated_candidates.jsonl",
+        "data_schema.json"
+      ]
+    },
+    {
+      "phase": "2",
+      "name": "Feature Engineering",
+      "description": "Extract candidate features",
+      "status": "completed",
+      "artifacts": [
+        "phase2_features.jsonl"
+      ]
+    },
+    {
+      "phase": "3",
+      "name": "Candidate Intelligence",
+      "description": "Compute candidate intelligence scores",
+      "status": "completed",
+      "artifacts": [
+        "phase3_intelligence.jsonl"
+      ]
+    },
+    {
+      "phase": "4",
+      "name": "Smart Ranking",
+      "description": "Rank candidates using AI",
+      "status": "completed",
+      "artifacts": [
+        "phase4_ranked_candidates.jsonl"
+      ]
+    },
+    {
+      "phase": "5",
+      "name": "Explainability",
+      "description": "Generate decision reasoning",
+      "status": "completed",
+      "artifacts": [
+        "phase5_explanations.jsonl"
+      ]
+    },
+    {
+      "phase": "6",
+      "name": "Validation & Submission",
+      "description": "Validate and prepare final submission",
+      "status": "completed",
+      "artifacts": [
+        "submission.csv"
+      ]
+    },
+    {
+      "phase": "7",
+      "name": "Intelligence Analytics",
+      "description": "Generate analytics dashboards",
+      "status": "completed",
+      "artifacts": [
+        "candidate_metrics_index.jsonl",
+        "candidate_analytics_profiles.jsonl"
+      ]
+    }
+  ],
+  "overall_progress": "100%"
+}

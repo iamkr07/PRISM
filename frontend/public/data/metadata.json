@@ -1,0 +1,17 @@
+{
+  "source": "backend/data/sample_submission.csv, backend/analytics/prism_insights.json, backend/data/sample_candidates.json",
+  "total_exported": 50,
+  "generated_at": "2026-06-27",
+  "top_candidate_ids": [
+    "CAND_0000001",
+    "CAND_0000002",
+    "CAND_0000003",
+    "CAND_0000004",
+    "CAND_0000005",
+    "CAND_0000006",
+    "CAND_0000007",
+    "CAND_0000008",
+    "CAND_0000009",
+    "CAND_0000010"
+  ]
+}

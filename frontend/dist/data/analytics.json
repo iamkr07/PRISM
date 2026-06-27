@@ -1,0 +1,229 @@
+{
+  "dataset_size": 100000,
+  "most_common_roles": [
+    {
+      "name": "Business Analyst",
+      "value": 5833
+    },
+    {
+      "name": "HR Manager",
+      "value": 5830
+    },
+    {
+      "name": "Mechanical Engineer",
+      "value": 5791
+    },
+    {
+      "name": "Accountant",
+      "value": 5764
+    },
+    {
+      "name": "Project Manager",
+      "value": 5754
+    },
+    {
+      "name": "Customer Support",
+      "value": 5750
+    },
+    {
+      "name": "Operations Manager",
+      "value": 5744
+    },
+    {
+      "name": "Content Writer",
+      "value": 5727
+    },
+    {
+      "name": "Sales Executive",
+      "value": 5713
+    },
+    {
+      "name": "Civil Engineer",
+      "value": 5702
+    }
+  ],
+  "most_common_skills": [
+    {
+      "name": "HTML",
+      "value": 12246
+    },
+    {
+      "name": "Databricks",
+      "value": 12244
+    },
+    {
+      "name": "Redux",
+      "value": 12222
+    },
+    {
+      "name": "Terraform",
+      "value": 12187
+    },
+    {
+      "name": "Angular",
+      "value": 12173
+    },
+    {
+      "name": "Figma",
+      "value": 12157
+    },
+    {
+      "name": "Salesforce CRM",
+      "value": 12157
+    },
+    {
+      "name": "Vue.js",
+      "value": 12142
+    },
+    {
+      "name": "Sales",
+      "value": 12138
+    },
+    {
+      "name": "Accounting",
+      "value": 12136
+    },
+    {
+      "name": "Agile",
+      "value": 12135
+    },
+    {
+      "name": "Kafka",
+      "value": 12114
+    },
+    {
+      "name": "Excel",
+      "value": 12109
+    },
+    {
+      "name": "BigQuery",
+      "value": 12108
+    },
+    {
+      "name": "CI/CD",
+      "value": 12108
+    }
+  ],
+  "highest_recruiter_demand_roles": [
+    {
+      "name": "Senior AI Engineer",
+      "value": 69.01
+    },
+    {
+      "name": "Staff Machine Learning Engineer",
+      "value": 68.28
+    },
+    {
+      "name": "Data Scientist",
+      "value": 65.6
+    },
+    {
+      "name": "Senior Machine Learning Engineer",
+      "value": 65.09
+    },
+    {
+      "name": "Senior Applied Scientist",
+      "value": 62.65
+    },
+    {
+      "name": "Senior NLP Engineer",
+      "value": 61.2
+    },
+    {
+      "name": "Search Engineer",
+      "value": 60.68
+    },
+    {
+      "name": "Recommendation Systems Engineer",
+      "value": 60.55
+    },
+    {
+      "name": "Applied ML Engineer",
+      "value": 60.45
+    },
+    {
+      "name": "Machine Learning Engineer",
+      "value": 59.51
+    }
+  ],
+  "average_experience_years": 7.17,
+  "median_experience_years": 6.8,
+  "experience_distribution": {
+    "5-8": 25896,
+    "12+": 14871,
+    "0-2": 7470,
+    "2-5": 26400,
+    "8-12": 25363
+  },
+  "top_certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "value": 12499
+    },
+    {
+      "name": "Six Sigma Green Belt",
+      "value": 12280
+    },
+    {
+      "name": "Scrum Master Certified",
+      "value": 12147
+    },
+    {
+      "name": "AWS Certified Machine Learning Specialty",
+      "value": 131
+    },
+    {
+      "name": "Deep Learning Specialization",
+      "value": 111
+    },
+    {
+      "name": "Google Cloud Professional ML Engineer",
+      "value": 111
+    },
+    {
+      "name": "NLP Specialization",
+      "value": 105
+    },
+    {
+      "name": "LangChain for LLM Application Development",
+      "value": 100
+    }
+  ],
+  "hiring_readiness_distribution": {
+    "Ready": 16917,
+    "Moderate": 64391,
+    "Low": 18691,
+    "Highly Ready": 1
+  },
+  "persona_distribution": {
+    "AI Engineer": 36694,
+    "Generalist": 44211,
+    "Emerging Talent": 8979,
+    "Leadership Ready": 9724,
+    "Immediate Hire": 392
+  },
+  "recruitability_distribution": {
+    "High": 51733,
+    "Moderate": 40894,
+    "Low": 6032,
+    "Very High": 1341
+  },
+  "risk_distribution": {
+    "Low": 24892,
+    "Moderate": 68303,
+    "High": 6799,
+    "Critical": 6
+  },
+  "top_ranked_candidates": [
+    "CAND_0055745",
+    "CAND_0058510",
+    "CAND_0024575",
+    "CAND_0030403",
+    "CAND_0009046",
+    "CAND_0053702",
+    "CAND_0059393",
+    "CAND_0009909",
+    "CAND_0014232",
+    "CAND_0019160"
+  ]
+}
