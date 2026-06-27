@@ -1,113 +1,354 @@
-# PRISM - AI Recruitment Intelligence Platform
+# PRISM – AI Recruitment Intelligence Platform
 
-A luxury enterprise AI dashboard for analyzing candidate profiles through a seven-stage intelligence pipeline.
+> **Enterprise AI-Powered Recruitment Intelligence Platform**
+>
+> PRISM transforms raw candidate profiles into actionable hiring intelligence through a multi-stage AI pipeline, enabling recruiters to make faster, explainable, and data-driven hiring decisions.
 
-## Project Overview
+---
 
-PRISM is an end-to-end AI-powered recruitment intelligence platform that transforms raw candidate profiles into actionable hiring insights. The system combines modern data engineering, machine learning, and beautiful data visualization to provide recruiters with a comprehensive view of candidates.
+# Overview
 
-## System Architecture
+Recruiters spend countless hours manually reviewing resumes, comparing candidates, identifying hiring risks, and evaluating career trajectories.
 
-PRISM consists of two main components:
-1. **Backend**: Python/FastAPI pipeline for data processing and AI analysis
-2. **Frontend**: React/Vite static dashboard for data visualization
+PRISM addresses this challenge by combining Artificial Intelligence, structured analytics, and modern visualization into a unified recruitment intelligence platform.
 
-## Backend Design
+The platform processes candidate profiles through a seven-stage intelligence pipeline to generate:
 
-The backend is built on FastAPI and includes:
-- **API Layer** (`/backend/api/routes/`): RESTful endpoints for candidates, comparisons, analytics, and pipeline
-- **Service Layer** (`/backend/api/services/`): Core business logic for candidate processing and analytics
-- **Schema Layer** (`/backend/api/schemas/`): Pydantic models for data validation
-- **Utils** (`/backend/api/utils.py`): Helper functions
+- AI-based Candidate Ranking
+- Recruitability Analysis
+- Risk Assessment
+- Candidate DNA Profiling
+- Hiring Recommendations
+- Interactive Recruiter Dashboard
+- Candidate Comparison Engine
 
-## AI Pipeline
+---
 
-The seven-stage intelligence pipeline:
-1. Data ingestion and validation
-2. Feature extraction
-3. Candidate scoring
-4. Risk assessment
-5. DNA profiling
-6. Recommendation generation
-7. Analytics reporting
+# Features
 
-## Frontend
+- AI-powered candidate intelligence
+- Multi-stage recruitment pipeline
+- Recruitability scoring
+- Risk analysis
+- Candidate DNA profiling
+- Explainable hiring recommendations
+- Interactive analytics dashboard
+- Candidate comparison engine
+- Search, filtering and pagination
+- Enterprise-grade React dashboard
+- FastAPI backend architecture
+- Static Vercel deployment for live demonstration
 
-The frontend is a static React/Vite application built with:
-- React 19 with TypeScript
-- TanStack Query for data fetching
-- Framer Motion for animations
-- Recharts for data visualization
-- Tailwind CSS for styling
-- Lucide React for icons
+---
 
-It uses static JSON files located in `/frontend/public/data/` to ensure it can be deployed without any backend dependencies.
+# System Architecture
 
-## Deployment
+```text
+                    Candidate Dataset
+                           │
+                           ▼
+        ┌────────────────────────────────────┐
+        │      AI Intelligence Pipeline      │
+        └────────────────────────────────────┘
+                           │
+       ┌────────────────────────────────────────────┐
+       │ Stage 1 : Data Validation                  │
+       │ Stage 2 : Feature Engineering              │
+       │ Stage 3 : Candidate Intelligence           │
+       │ Stage 4 : Candidate Ranking                │
+       │ Stage 5 : Recommendation Generation        │
+       │ Stage 6 : Analytics Generation             │
+       │ Stage 7 : Dashboard Preparation            │
+       └────────────────────────────────────────────┘
+                           │
+                           ▼
+               Processed Intelligence Dataset
+                           │
+                           ▼
+                  React + Vite Dashboard
+```
 
-### Demo Deployment
+---
 
-The deployed application is a static demonstration hosted on Vercel. The backend implementation is fully included in this repository for evaluation. Large processed datasets are intentionally excluded from Git because of GitHub repository size limits. The complete datasets are available through the links provided below.
-
-### Frontend Deployment
-Deploy the `/frontend` directory to Vercel as a static application. No backend configuration needed.
-
-### Backend Deployment (Optional)
-To run the full backend locally, install dependencies from `/backend/requirements.txt` and start the FastAPI server.
-
-## Technology Stack
-
-| Component | Technologies |
-|-----------|--------------|
-| Frontend | React 19, TypeScript, Vite, Tailwind CSS, Recharts, Framer Motion |
-| Backend | Python 3.11+, FastAPI, Pydantic, NumPy |
-| Hosting | Vercel (frontend) |
-
-## Dataset
-
-Candidates Dataset:
-&lt;ADD LINK&gt;
-
-Analytics Dataset:
-&lt;ADD LINK&gt;
-
-Outputs:
-&lt;ADD LINK&gt;
-
-## Repository Layout
-
-| Directory | Purpose |
-|-----------|---------|
-| `/frontend` | **Deployed demo**: Fully static React/Vite application that runs on Vercel with no backend dependency |
-| `/backend` | **Complete implementation**: Full Python/FastAPI AI pipeline and backend API |
-| Datasets | Downloaded separately from the links provided below |
-
-## Folder Structure
+# Repository Structure
 
 ```
-prism-main/
+PRISM
+│
 ├── backend/
 │   ├── api/
 │   │   ├── routes/
-│   │   ├── schemas/
 │   │   ├── services/
+│   │   ├── schemas/
+│   │   ├── utils.py
 │   │   └── app.py
+│   │
 │   ├── phases/
+│   ├── scripts/
+│   ├── analytics/
+│   ├── outputs/
+│   ├── data/
 │   ├── requirements.txt
 │   └── ...
+│
 ├── frontend/
-│   ├── public/data/       # Static demo data
+│   ├── public/
+│   │   └── data/
 │   ├── src/
-│   │   ├── api/hooks/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   └── services/
 │   ├── package.json
 │   └── vercel.json
-├── .gitignore
-└── README.md
+│
+├── README.md
+└── .gitignore
 ```
 
-## License
+---
 
-Proprietary - PRISM Platform
+# Technology Stack
+
+## Frontend
+
+- React 19
+- TypeScript
+- Vite
+- Tailwind CSS
+- Framer Motion
+- TanStack Query
+- Recharts
+- Lucide React
+
+## Backend
+
+- Python 3.11
+- FastAPI
+- Pydantic
+- JSONL Processing
+- Modular Service Architecture
+
+---
+
+# AI Intelligence Pipeline
+
+## Stage 1 — Data Validation
+
+- Candidate data ingestion
+- Validation
+- Cleaning
+- Standardization
+
+---
+
+## Stage 2 — Feature Engineering
+
+- Structured feature extraction
+- Profile normalization
+- Metadata generation
+
+---
+
+## Stage 3 — Candidate Intelligence
+
+- Intelligence profile generation
+- Candidate analysis
+- Career understanding
+
+---
+
+## Stage 4 — Candidate Ranking
+
+- AI evaluation
+- Candidate scoring
+- Final ranking
+
+---
+
+## Stage 5 — Recommendation Engine
+
+- Hiring recommendations
+- Explainable AI outputs
+- Decision support
+
+---
+
+## Stage 6 — Analytics
+
+- Recruiter analytics
+- Dashboard metrics
+- Business insights
+
+---
+
+## Stage 7 — Dashboard Preparation
+
+- Export optimized datasets
+- Prepare frontend data
+- Static deployment artifacts
+
+---
+
+# Live Demo
+
+The frontend is deployed as a static Vercel application for demonstration purposes.
+
+**Live Demo**
+
+> https://YOUR-VERCEL-LINK.vercel.app
+
+The deployed version contains a curated subset of the processed candidates while preserving the original rankings and analytics generated by the AI pipeline.
+
+---
+
+# Backend Implementation
+
+The repository includes the complete backend implementation used during development, including:
+
+- FastAPI REST API
+- Candidate Processing Pipeline
+- Business Logic
+- AI Ranking Engine
+- Analytics Engine
+- Data Models
+- Processing Utilities
+
+Large generated artifacts are excluded from GitHub due to repository size limitations.
+
+---
+
+# Dataset
+
+The complete processed datasets are publicly available on Hugging Face.
+
+## Hugging Face Repository
+
+https://huggingface.co/datasets/iamkr07/prism-data
+
+The repository includes:
+
+- candidates.jsonl
+- candidate_metrics_index.jsonl
+- candidate_analytics_profiles.jsonl
+- validated_candidates.jsonl
+- phase2_features.jsonl
+- phase3_intelligence.jsonl
+- phase4_ranked_candidates.jsonl
+- submission.csv
+
+---
+
+## Final Submission
+
+The file:
+
+```
+submission.csv
+```
+
+contains the final ranked candidate list produced by the complete PRISM intelligence pipeline.
+
+Judges can use this file to verify:
+
+- Candidate Rankings
+- Final Scores
+- Recommendation Outputs
+- Pipeline Results
+
+against the live demonstration.
+
+---
+
+# Running Locally
+
+## Backend
+
+```bash
+cd backend
+
+pip install -r requirements.txt
+
+uvicorn api.app:app --reload
+```
+
+---
+
+## Frontend
+
+```bash
+cd frontend
+
+npm install
+
+npm run dev
+```
+
+---
+
+# Deployment
+
+## Frontend
+
+Deploy the **frontend** directory directly to Vercel.
+
+Configuration:
+
+```
+Framework : Vite
+Root Directory : frontend
+Build Command : npm run build
+Output Directory : dist
+```
+
+---
+
+## Backend
+
+The backend can be executed locally using FastAPI.
+
+The repository contains the complete backend implementation for evaluation.
+
+---
+
+# Why Static Deployment?
+
+The original PRISM pipeline generates multiple large JSONL datasets exceeding GitHub repository limits and free-tier deployment constraints.
+
+To ensure a fast, reliable, and reproducible demonstration, the deployed frontend uses static JSON generated directly from the original pipeline outputs.
+
+The backend implementation remains fully available in this repository, while the complete processed datasets are hosted separately on Hugging Face.
+
+This approach preserves:
+
+- Original candidate rankings
+- AI-generated scores
+- Recruitability metrics
+- Risk analysis
+- Recommendation outputs
+- Dashboard analytics
+
+without modifying the underlying pipeline logic.
+
+---
+
+# Project Highlights
+
+- Enterprise-grade architecture
+- Modular FastAPI backend
+- Modern React frontend
+- AI-powered recruitment intelligence
+- Explainable hiring recommendations
+- Candidate comparison engine
+- Interactive recruiter dashboard
+- Static production deployment
+- Public reproducible dataset
+- Complete backend implementation included
+
+---
+
+# Authors
+
+Developed as part of a Hackathon project demonstrating scalable AI-powered recruitment intelligence using modern software engineering principles.
+
+---
+
+# License
+
+This project is provided for academic, research, and hackathon evaluation purposes.
